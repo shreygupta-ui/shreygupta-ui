@@ -12,6 +12,7 @@
 
 </div>
 
+
 # 👋 Hey, I'm Shrey Gupta!
 
 ### 💻 CSE (AI & ML) Student | Python Developer | Tech Enthusiast
@@ -70,4 +71,16 @@ A Machine Learning web application that predicts student academic performance ba
 ## 🐍 My Contribution Journey
 
 ![GitHub Snake](https://raw.githubusercontent.com/shreygupta-ui/shreygupta-ui/output/github-snake-dark.svg)
+
+
+---
+
+### 👀 Profile Visitors
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreygupta-ui&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge)
+
+</div>
+
 
