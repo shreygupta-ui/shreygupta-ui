@@ -42,6 +42,27 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building rea
 
 ## 🚀 Featured Project
 
+---
+
+## 🧠 Current Focus
+
+| Domain | What I'm Exploring |
+|:---|:---|
+| 🤖 Machine Learning | Predictive Modeling & Model Evaluation |
+| 🧠 Deep Learning | Neural Networks & Intelligent Systems |
+| 📊 Data Science | Data Analysis & Visualization |
+| 🚀 AI Applications | Turning ML Models into Working Web Apps |
+
+> *Exploring how intelligent systems can solve real-world problems.*
+
+---
+
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Domain-Machine%20Learning-8B5CF6?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+
+
 ### 🎓 Student Performance Prediction System
 
 A Machine Learning web application that predicts student academic performance based on study habits and academic information.
