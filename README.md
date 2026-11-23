@@ -66,3 +66,8 @@ A Machine Learning web application that predicts student academic performance ba
 [![GitHub](https://img.shields.io/badge/GitHub-shreygupta--ui-181717?style=for-the-badge&logo=github)](https://github.com/shreygupta-ui)
 
 **✨ Learning. Building. Improving. Every day.**
+
+## 🐍 My Contribution Journey
+
+![GitHub Snake](https://raw.githubusercontent.com/shreygupta-ui/shreygupta-ui/output/github-snake-dark.svg)
+
