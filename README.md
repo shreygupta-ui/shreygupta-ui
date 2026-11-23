@@ -5,9 +5,10 @@
 
 </div>
 
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shrey+Gupta!;AI+%26+Machine+Learning+Enthusiast;Exploring+Intelligent+Systems;Turning+Data+into+Intelligent+Solutions;Learning+%7C+Building+%7C+Innovating)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Exploring+the+Future+of+Intelligent+Systems;Turning+Data+into+Intelligent+Solutions;Learning+%7C+Building+%7C+Innovating;Transforming+Ideas+into+Reality)
 
 </div>
 
