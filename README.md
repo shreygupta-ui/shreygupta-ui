@@ -1,6 +1,12 @@
 
 <div align="center">
 
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:4338CA,100:7C3AED&text=Shrey%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Innovation&descAlignY=60&descSize=17)
+
+</div>
+
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shrey+Gupta!;AI+%26+Machine+Learning+Enthusiast;Exploring+Intelligent+Systems;Turning+Data+into+Intelligent+Solutions;Learning+%7C+Building+%7C+Innovating)
 
 </div>
