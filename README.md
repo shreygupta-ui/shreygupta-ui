@@ -1,8 +1,10 @@
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shrey+Gupta!;Python+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shrey+Gupta!;AI+%26+Machine+Learning+Enthusiast;Exploring+Intelligent+Systems;Turning+Data+into+Intelligent+Solutions;Learning+%7C+Building+%7C+Innovating)
 
 </div>
+
 # 👋 Hey, I'm Shrey Gupta!
 
 ### 💻 CSE (AI & ML) Student | Python Developer | Tech Enthusiast
