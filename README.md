@@ -96,11 +96,11 @@ A Machine Learning web application that predicts student academic performance ba
 
 ---
 
-### 👀 Profile Visitors
+### 👀 Profile 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shreygupta-ui&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge)
+![Profile](https://komarev.com/ghpvc/?username=shreygupta-ui&label=PROFILE&color=8B5CF6&style=for-the-badge)
 
 </div>
 
