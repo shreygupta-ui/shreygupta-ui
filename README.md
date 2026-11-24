@@ -15,7 +15,7 @@
 
 # 👋 Hey, I'm Shrey Gupta!
 
-### 💻 CSE (AI & ML) Student | Python Developer | Tech Enthusiast
+### 💻 CSE (AI & ML) Student | Developer | Tech Enthusiast
 
 I'm passionate about Artificial Intelligence, Machine Learning, and building real-world applications.
 
